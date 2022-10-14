@@ -49,3 +49,16 @@ Wait for a minute or two.
 It'll output the confusion matrix table in *confusion matrix.csv*, and show a picture of it which saves as *confusion matrix.jpg*.
 
 A lower score means a higher probability, and is shown in the picture with a darker color.
+
+### 5.d. the optimal path in the accumulated distance score matrix diagram
+
+```shell
+cd 5\ speech\ recognition\ system
+python d.py
+```
+
+It'll give a picture of the accumulated distance score matrix diagram of S1A and S1B, and the optimal path is highlighted in blue color. The picture would be saved as *optimal path.jpg*.
+
+## About this repo
+
+It won't be set public until the submission deadline of this assignment.
